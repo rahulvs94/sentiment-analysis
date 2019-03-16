@@ -22,3 +22,7 @@ Project 2: Sentiment analysis on movie data
 	- Lowering the numbers in tuple for n-grams increases the size of dictionary as well as time to fit the model
 
 Usage: Run the cells to see results
+
+
+Kaggle Kernel: 
+	https://www.kaggle.com/rahulvs94/hyperparameter-tuning-sklearn-keras-talos?scriptVersionId=11680199
